@@ -16,9 +16,11 @@ A large number of toys, children, and people. The number of rooms and floors wit
 The nature of the grassy environment of the land was also chosen, in addition to the day and night mode, and the main building door is glass. The camera was also controlled using the keyboard and mouse,
 
 
+## Video:
+https://github.com/halalek/Graphics-Project/blob/main/video.mp4
 
 
-
+## Images:
 ![city](https://github.com/halalek/-Graphics-Project/assets/112726630/0a85d3d3-cc3a-4fce-b075-098db3f4c7e1)
 
 
